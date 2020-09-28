@@ -7,8 +7,10 @@ input.onButtonPressed(Button.AB, function () {
 input.onButtonPressed(Button.B, function () {
     Counter += -1
 })
+// Created By: Vaughn Hatherall
+// 
+// Created on: September 28
+// 
+// This program counts
 let Counter = 0
 Counter = 0
-basic.forever(function () {
-	
-})
